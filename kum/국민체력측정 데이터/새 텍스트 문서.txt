@@ -1,0 +1,12 @@
+https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=c99df919-f2c9-4ceb-999d-82688c028031
+
+
+1	TEST_CNT	측정 회차	NUMERIC	22		Y
+2	CENTER_NM	센터명	VARCHAR	100		
+3	AGE_GBN	나이구분	VARCHAR	20		Y
+4	TEST_GBN	측정구분	VARCHAR	20		
+5	TEST_AGE	측정나이	NUMERIC	22		
+6	INPUT_GBN	입력구분	VARCHAR	20		
+7	CERT_GBN	상장구분	VARCHAR	20		
+8	TEST_YMD	측정일	CHAR	8		Y
+9	TEST_SEX	측정회원성별	CHAR	1		
